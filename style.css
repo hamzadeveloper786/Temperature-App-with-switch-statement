@@ -1,0 +1,16 @@
+body{
+    background-color: darkgrey;
+    margin-left: 1em;
+}
+input{
+    border-radius: 0.5em;
+    border: 3px solid cadetblue;
+}
+input:hover{
+    border: 3px solid white;
+    background-color: blanchedalmond;
+}
+button{
+    padding: 0.5em;
+    border-radius: 0.3em;
+}
